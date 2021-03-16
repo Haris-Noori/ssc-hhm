@@ -1,7 +1,7 @@
 ==================================================
 # SECURING SUPPLY CHAIN
 ==================================================
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://hyperledger-fabric.readthedocs.io/en/release-2.2/_images/peers.diagram.1.png" width="200"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://hyperledger-fabric.readthedocs.io/en/release-2.2/_images/peers.diagram.1.png" width="80%"></a></p>
 
 ### A Network has -> Channels
 
